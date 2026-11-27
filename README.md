@@ -7,6 +7,8 @@ ColorOS 15 / 16 / 17 通用的 LSPosed 熄屏省电模块，**不是一加 13 �
 - 一加 13（PJZ110，ColorOS 16 / Android 16）
 - OPPO Find X8 Ultra（PKJ110，Android 17）
 - OPPO Find N3 典藏版
+- OPPO Find X9（PLG110，ColorOS 17 / Android 17，天玑平台）—— 目前只有诊断模式基线（熄屏 112 分钟掉 1%，约 0.5%/h），省电档还没复测
+- 一加 15（PYF110，ColorOS 17 / Android 17）—— 目前只有亮屏段样本，熄屏数据还在等
 
 ## 它做什么
 
